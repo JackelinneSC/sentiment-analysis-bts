@@ -1,2 +1,2 @@
 # sentiment-analysis-bts
-This project is created for educational purposes. Using ML to solve a problem.
+This project is created for educational purposes. Using ML to accurately classify whether YT users wrote positive or negative reviews about BTS's most-viewed videos.
